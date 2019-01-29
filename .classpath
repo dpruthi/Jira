@@ -15,5 +15,12 @@
 	<classpathentry kind="lib" path="C:/Users/ayshwarya.katheria/Downloads/selenium-java-3.13.0/libs/okio-1.14.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ayshwarya.katheria/Downloads/selenium-java-3.13.0/client-combined-3.13.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ayshwarya.katheria/Downloads/selenium-java-3.13.0/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

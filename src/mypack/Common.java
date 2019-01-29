@@ -2,16 +2,8 @@ package mypack;
 
 public class Common {
 	
-	public void Sleep() throws InterruptedException
+	public void Sleep(int i) throws InterruptedException
 	{
-		Thread.sleep(2000);
+		Thread.sleep(i);
 	}
-	
-	
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }
